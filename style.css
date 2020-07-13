@@ -192,6 +192,10 @@ header nav a:hover {
      display: flex;
      flex-direction: column;
    }
+   .product-img, .product-info {
+     display: block;
+     max-width: 80%;
+   }
    .product-info {
       margin-left: 0px;
       margin-top: 11px;
